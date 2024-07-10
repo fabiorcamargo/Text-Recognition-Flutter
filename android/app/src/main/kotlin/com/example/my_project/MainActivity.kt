@@ -1,4 +1,4 @@
-package com.example.text_recognition_flutter
+package com.mycompany.cameraocr
 
 import io.flutter.embedding.android.FlutterActivity
 
